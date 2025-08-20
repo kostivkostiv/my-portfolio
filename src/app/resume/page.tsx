@@ -11,7 +11,8 @@ import {
   TOOLS_OTHERS,
 } from "@/constants/constants";
 import ResumeHeader from "@/components/resumeInfo/ResumeHeader";
-import ResumeInfo from "@/components/resumeInfo/resumeInfo";
+import ResumeInfo from "@/components/resumeInfo/ResumeInfo";
+
 
 export default function Resume() {
   return (
