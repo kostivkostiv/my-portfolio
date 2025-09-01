@@ -27,13 +27,13 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Weather Dashboard",
+      title: "Weatherapp-web",
       description: "A responsive weather dashboard that displays current weather conditions and forecasts for multiple cities with interactive charts and maps.",
       image: "/bgi.jpeg",
-      technologies: ["React", "Chart.js", "Weather API", "CSS Modules"],
-      githubUrl: "https://github.com/yourusername/weather-dashboard",
-      liveUrl: "https://your-weather.vercel.app",
-      date: "2023"
+      technologies: ["React", "Axious", "OpenWeatherMap API", "SCSS Modules", "React Toastify"],
+      githubUrl: "https://github.com/kostivkostiv/weatherapp-web",
+      liveUrl: "https://weatherapp-web-juc4.vercel.app/",
+      date: "2025"
     },
     {
       id: 4,
